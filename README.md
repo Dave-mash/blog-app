@@ -1,8 +1,8 @@
 # Blog app
 Simple blog app
-* front-end
+* ### front-end
 1. HTML5
 2. Boostrap
-* back-end
+* ### back-end
 1. Node,
 2. mongoDB
